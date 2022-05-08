@@ -1,39 +1,36 @@
-# Hands-on-Practice: 20-Machine-Learning-Projects-on-NLP
+# 20 Machine Learning Projects for Portfolio
 
-Natural language processing (NLP) is a widely discussed and studied subject these days. NLP, one of the oldest areas of machine learning research, is used in major fields such as machine translation speech recognition and word processing.
+Getting a good job in the field of Machine Learning is getting very competitive. The best way to showcase your Machine Learning skills is in the form of Portfolio of Data Science and Machine Learning Projects. A good Portfolio of Projects will show that you can apply those Machine Learning skills in your work.
 
-Here, 20 Machine Learning projects on NLP solved and explained with the Python programming language for self-study.
+Here, 20 Machine Learning projects solved and explained with the Python programming language for self-study.
 
 Follow me on LinkedIn : https://www.linkedin.com/in/puspanjalisarma/
 
 
-🖥️ 𝟮𝟬 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 𝗼𝗻 𝗡𝗟𝗣 🖥️
+🖥️ 𝟮𝟬 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀 𝗳𝗼𝗿 𝗣𝗼𝗿𝘁𝗳𝗼𝗹𝗶𝗼 🖥️
 
-| SL. No. | Project Name                                    | Links                                                                     |
-|---------|-------------------------------------------------|-------------------------------------------------------------------------- |
-| 1       | Resume Screening with Python                    |(https://thecleverprogrammer.com/2020/12/06/resume-screening-with-python/) |
-| 2       | Named Entity Recognition with Python            | https://thecleverprogrammer.com/2020/08/04/named-entity-recognition-ner/  |
-| 3       | Sentiment Analysis with Python                  | https://thecleverprogrammer.com/2020/12/07/sentiment-analysis-with-python/|
-| 4       | Keyword Extraction with Python                  | https://thecleverprogrammer.com/2020/12/01/keyword-extraction-with-python/                 |
-| 5       | Spelling Correction Model with Python           | https://thecleverprogrammer.com/2020/11/30/correct-spellings-with-python/           |
-| 6       | Keyboard Autocorrection Model                   | https://thecleverprogrammer.com/2020/10/04/autocorrect-with-python/                  |
-| 7       | Election Results Prediction by analyzing Tweets | https://thecleverprogrammer.com/2020/10/01/predict-us-elections-with-python/ |
-| 8       | NLP for Other languages                         | https://thecleverprogrammer.com/2020/09/09/nlp-for-other-languages-with-machine-learning/                     |
-| 9       | Text Classification using Deep Learning         | https://thecleverprogrammer.com/2020/08/31/text-classification-with-tensorflow-in-machine-learning/        |
-| 10      | Summarize Text with Machine Learning            | https://thecleverprogrammer.com/2020/08/24/summarize-text-with-machine-learning/            |
-| 11      | Hate Speech Detection Model                     | https://thecleverprogrammer.com/2020/08/19/hate-speech-detection-model/                   |
-| 12      | Keyword Research with Python                    | https://thecleverprogrammer.com/2020/08/14/keyword-research-with-python/                    |
-| 13      | Whatsapp Group Chat Analysis                    | https://thecleverprogrammer.com/2020/08/06/whatsapp-group-chat-analysis/                    |
-| 14      | Next Word Prediction Model                      | https://thecleverprogrammer.com/2020/07/20/next-word-prediction-model/                    |
-| 15      | Fake News detection Model                       | https://thecleverprogrammer.com/2020/07/18/fake-news-detection-model/                     |
-| 16      | NLP for Whatsapp Chats                          | https://thecleverprogrammer.com/2020/07/16/nlp-for-whatsapp-chats/                        |
-| 17      | Twitter Sentiment Analysis                      | https://thecleverprogrammer.com/2020/06/13/twitter-sentiment-analysis/                     |
-| 18      | SMS Spam Detection Model                        | https://thecleverprogrammer.com/2020/06/12/sms-spam-detection-with-machine-learning/                     |
-| 19      | Movie Reviews Sentiment analysis                | https://thecleverprogrammer.com/2020/05/25/movie-reviews-sentiment-analysis-binary-classification-with-machine-learning/               |
-| 20      | Amazon Product Reviews Sentiment Analysis       | https://thecleverprogrammer.com/2020/05/15/amazon-product-reviews-sentiment-analysis-with-machine-learning/      |
-
-
-
+| SL.No | Project Name                               | Links                                                                                         |
+|-------|--------------------------------------------|-----------------------------------------------------------------------------------------------|
+| 1     | Online Shopping Intention Analysis         | https://thecleverprogrammer.com/2020/12/04/online-shopping-intention-analysis-with-python/    |
+| 2     | Amazon Bestselling Books Analysis          | https://thecleverprogrammer.com/2020/11/30/amazon-bestselling-books-analysis-with-python/     |
+| 3     | Covid-19 Cases prediction for next 30 days | https://thecleverprogrammer.com/2020/11/29/covid-19-cases-prediction-with-python/             |
+| 4     | YouTube Trending Videos Analysis           | https://thecleverprogrammer.com/2020/11/28/youtube-trending-videos-analysis-with-python/      |
+| 5     | Calories Burned Prediction                 | https://thecleverprogrammer.com/2020/11/26/calories-burned-prediction-with-python/            |
+| 6     | Gender Classification Model                | https://thecleverprogrammer.com/2020/11/25/gender-classification-with-python/                 |
+| 7     | Air Quality Index Analysis                 | https://thecleverprogrammer.com/2020/11/23/air-quality-index-analysis-with-python/            |
+| 8     | Pneumonia Detection                        | https://thecleverprogrammer.com/2020/11/22/pneumonia-detection-with-python/                   |
+| 9     | Employee Attrition Prediction              | https://thecleverprogrammer.com/2020/11/21/employee-attrition-prediction-with-python/         |
+| 10    | Restaurant Recommendation System           | https://thecleverprogrammer.com/2020/11/18/restaurant-recommendation-system-with-python/      |
+| 11    | Face Mask Detection                        | https://thecleverprogrammer.com/2020/11/17/face-mask-detection-with-machine-learning/         |
+| 12    | Breast Cancer Detection Model              | https://thecleverprogrammer.com/2020/11/14/breast-cancer-detection-with-machine-learning/     |
+| 13    | Stock Price Prediction                     | https://thecleverprogrammer.com/2020/11/14/stock-price-prediction-using-machine-learning/     |
+| 14    | Earthquake Prediction Model                | https://thecleverprogrammer.com/2020/11/12/earthquake-prediction-model-with-machine-learning/ |
+| 15    | Heart Disease Prediction Model             | https://thecleverprogrammer.com/2020/11/10/heart-disease-prediction-using-machine-learning/   |
+| 16    | Google Landmark Detection Model            | https://thecleverprogrammer.com/2020/11/08/landmark-detection-with-machine-learning/          |
+| 17    | Title Generator                            | https://thecleverprogrammer.com/2020/10/05/title-generator-with-machine-learning/             |
+| 18    | Election Results Prediction                | https://thecleverprogrammer.com/2020/10/01/predict-us-elections-with-python/                  |
+| 19    | Named Entity Recognition                   | https://thecleverprogrammer.com/2020/08/04/named-entity-recognition-ner/                      |
+| 20    | Fashion Recommendation System              | https://thecleverprogrammer.com/2020/08/16/fashion-recommendation-system/                     |
 
 Happy Learning! 👩‍💻
 
